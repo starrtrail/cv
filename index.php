@@ -5,7 +5,7 @@
     <title> 💚 Home</title>
 </head>
 <body>
-   <img src="images/Rascal_tongue.jpg" width="200" height="200">
+   <img src="Rascal_tongue.jpg" width="200" height="200">
    <!--hr can change color aligned noshade size and width-->
 <hr size="3" color="green" align="center" width="100%">
 
